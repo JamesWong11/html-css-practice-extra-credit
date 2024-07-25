@@ -4,22 +4,22 @@ p {
 .center {
     text-align: center;
 }
-p {
+.special {
     text-align: right;
 }
-p {
+.luigi {
     text-align: left;
     color: green;
 }
-p{
+.pie {
     text-align: left;
     font-family: trebuchet;
 }
-p {
+.prince {
     text-align: left;
     font-size: 40px;
 }
-p {
+.white {
     text-align: left;
     font-size: 5px;
     color: white;
