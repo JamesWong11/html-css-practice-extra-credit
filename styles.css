@@ -41,3 +41,15 @@ a {
   body {
     background-color: darkseagreen;
   }
+  .my-button {
+    padding: 5px;
+    width: 100px;
+    font-size: 20px;
+    font-family: serif;
+    transition-duration: 0.4s;
+  }
+  
+  
+  
+  
+  
