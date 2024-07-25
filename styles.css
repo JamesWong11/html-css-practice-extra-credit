@@ -47,6 +47,9 @@ a {
     font-size: 20px;
     font-family: serif;
     transition-duration: 0.4s;
+    position: absolute;
+    bottom: 160px;
+    right: 677px
   }
   
   
