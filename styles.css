@@ -19,3 +19,9 @@ p {
     text-align: left;
     font-size: 40px;
 }
+p {
+    text-align: left;
+    font-size: 5px;
+    color: white;
+    font-family: arial;
+}
