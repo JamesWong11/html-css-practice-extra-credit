@@ -27,4 +27,9 @@ p {
 }
 a {
     color: blue;
+    text-align: left;
+}
+.lawn {
+    color: blue;
+    text-align: left;
 }
